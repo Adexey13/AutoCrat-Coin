@@ -1,0 +1,2 @@
+# AutoCrat-Coin
+Aidrop
